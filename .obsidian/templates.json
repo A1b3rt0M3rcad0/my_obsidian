@@ -1,5 +1,4 @@
 {
-  "dateFormat": "",
   "folder": "__Config/Templates",
-  "timeFormat": ""
+  "dateFormat": "DD-MM-YYYY"
 }

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8729e531320ca26e","type":"text","text":"English","x":-100,"y":-180,"width":250,"height":60},
+		{"id":"b1f01e531b4edb60","type":"text","text":"Vocabulary","x":-100,"y":120,"width":250,"height":60},
+		{"id":"7e422cb0fb4dad79","type":"text","text":"Speaking","x":-480,"y":-60,"width":250,"height":60},
+		{"id":"7d7493e05ec6f790","type":"text","text":"Grammar\n","x":280,"y":-90,"width":250,"height":60},
+		{"id":"192ee560244d1d57","type":"text","text":"Listening","x":-225,"y":-400,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7dbe8d931ff25839","fromNode":"8729e531320ca26e","fromSide":"right","toNode":"7d7493e05ec6f790","toSide":"left"},
+		{"id":"4cff1c2350b86476","fromNode":"8729e531320ca26e","fromSide":"left","toNode":"7e422cb0fb4dad79","toSide":"right"},
+		{"id":"ec2b11b53405258f","fromNode":"8729e531320ca26e","fromSide":"top","toNode":"192ee560244d1d57","toSide":"right"},
+		{"id":"a4a17dae1be30a0c","fromNode":"8729e531320ca26e","fromSide":"bottom","toNode":"b1f01e531b4edb60","toSide":"top"}
+	]
+}
