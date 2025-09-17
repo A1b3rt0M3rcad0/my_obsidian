@@ -1,27 +1,20 @@
 {
   "main": {
-    "id": "ba007ae36a5ffc9e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "05695d6da246b840",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f616b35e10dcc200",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "English/Universe.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": -110,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Universe"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -179,20 +172,21 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "zk-prefixer:Criar nova nota única": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "f616b35e10dcc200",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "English/Vocabulary/Galaxy.canvas",
-    "English/Vocabulary/Music/Planet System.canvas",
-    "English/Vocabulary/Music/__index.md",
-    "English/Vocabulary/Music/Songs.md",
-    "English/Vocabulary/Music/Don't Stop Me Now - Queen.md",
+    "Multiverse.canvas",
     "English/Universe.canvas",
     "English/Grammar/Galaxy.canvas",
     "English/Grammar/Verb/Planet System.canvas",
     "English/Grammar/Verb/100 Most Common English Verbs.md",
+    "English/Vocabulary/Music/Don't Stop Me Now - Queen.md",
+    "English/Vocabulary/Music/Songs.md",
+    "English/Vocabulary/Music/Planet System.canvas",
+    "English/Vocabulary/Galaxy.canvas",
     "English/Grammar/Verb/__index.md",
     "English/Grammar/Verb/have.md",
     "English/Grammar/Verb/be.md",
@@ -200,6 +194,7 @@
     "English/Course/Notes/Planetary System.canvas",
     "English/Course/Notes/__index.md",
     "English/Course/Notes/Book 3.md",
+    "English/Vocabulary/Music/__index.md",
     "Aula 1.md",
     "__Config/Templates/{{Planetary System}}.md",
     "__Config/Templates/{{Planet}}.md",
