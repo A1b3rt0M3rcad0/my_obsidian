@@ -1,0 +1,1 @@
+Reflexões e conexões pessoais derivadas de estudos ou experiências.

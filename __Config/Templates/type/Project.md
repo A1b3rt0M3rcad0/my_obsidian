@@ -1,0 +1,1 @@
+Notas que organizam iniciativas maiores, com objetivos, tarefas e links para conceitos e referências.

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c9bd1989ac7b87b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40cb53b868da448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a552b3d0f13357d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fecfa8f8a257539",
+    "type": "split",
+    "children": [
+      {
+        "id": "56ba4de8eb3f1bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae919319bc2136f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8fcfc34134d4bee2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1812d2b545352dfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6774a8574e7ddb81",
+    "type": "split",
+    "children": [
+      {
+        "id": "6488ac5431ed2677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab61a722180fd55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "English/Verb/be.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para be"
+            }
+          },
+          {
+            "id": "b1585843ec43fc7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "English/Verb/be.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para be"
+            }
+          },
+          {
+            "id": "8e4914ea5672f04b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2e4cb1c0f1e64244",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "English/Verb/be.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de be"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a552b3d0f13357d0",
+  "lastOpenFiles": [
+    "English/Verb/be.md",
+    "__Config/Templates/type/Map of Content.md",
+    "English/Verb/100 Most Commom English Verbs.md",
+    "__Config/Templates/{{Verb}}.md",
+    "be.md",
+    "__Config/Templates/{{Map of Content}}.md",
+    "English/Verb",
+    "__Config",
+    "English",
+    "__Config/Templates/{{Concept}}.md",
+    "__Config/Templates/{{Insight}}.md",
+    "__Config/Templates/{{Personal Note}}.md",
+    "__Config/Templates/type/Language.md",
+    "__Config/Templates/type/Insight.md",
+    "Sem título.canvas",
+    "Sem título.base",
+    "__Config/Templates/type/Concept.md",
+    "Templates/16-09-2025.md",
+    "__Config/Templates/type/Project.md",
+    "__Config/Templates/type/Personal Note.md",
+    "__Config/Templates/type",
+    "Templates/{{Tittle}}Note.md",
+    "__Config/Templates",
+    "Jose.md",
+    "1 - Templates/Template Zettel básico.md",
+    "1 - Templates/Notas de livros.md",
+    "1 - Templates/Daily Note.md",
+    "3 - Conhecimentos/Cálculo_proposicional.md",
+    "2 - Livros/Analise_de_dados_com_pandas.md",
+    "3 - Conhecimentos/Matemática.md",
+    "3 - Conhecimentos/Equivalência_lógica.md",
+    "3 - Conhecimentos/Data_science.md",
+    "3 - Conhecimentos/Sem título.canvas",
+    "5 -assets/Pasted image 20240328205839.png",
+    "5 -assets/Pasted image 20240328205528.png",
+    "5 -assets/Pasted image 20240328205141.png",
+    "5 -assets/Pasted image 20240328153815.png",
+    "5 -assets/Pasted image 20240328160503.png",
+    "5 -assets/Pasted image 20240328150325.png",
+    "5 -assets/Pasted image 20240328152223.png",
+    "5 -assets/Pasted image 20240328145001.png",
+    "5 -assets/Pasted image 20240328144116.png",
+    "5 -assets",
+    "3 - Conhecimentos",
+    "2 - Livros",
+    "1 - Templates",
+    "Obsidian/5 -assets/Pasted image 20240328205839.png"
+  ]
+}

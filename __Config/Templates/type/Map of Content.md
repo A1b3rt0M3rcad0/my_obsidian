@@ -1,0 +1,1 @@
+Notas que funcionam como **índices/hubs de navegação**.

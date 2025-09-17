@@ -1,0 +1,1 @@
+Registros pessoais: diário, anotações livres, pensamentos não estruturados.

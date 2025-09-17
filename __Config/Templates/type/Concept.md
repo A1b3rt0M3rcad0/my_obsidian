@@ -1,0 +1,1 @@
+Definições, ideias ou técnicas externas e objetivas.
