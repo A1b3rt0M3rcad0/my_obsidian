@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "155b7bcb03b5ff02",
+        "id": "242317af6b0904da",
         "type": "tabs",
         "children": [
           {
-            "id": "a762629524597c81",
+            "id": "e60e6651609fd006",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "English/Universe.canvas",
+                "viewState": {
+                  "x": 25,
+                  "y": -110.00000000000001,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Universe"
             }
           }
         ]
@@ -108,11 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "English/Universe.canvas",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Universe"
             }
           },
           {
@@ -136,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "English/Universe.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Universe"
             }
           },
           {
@@ -173,19 +182,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b4e1b27f6034141",
+  "active": "9037313f4d3b29ca",
   "lastOpenFiles": [
+    "English/Vocabulary/Galaxy.canvas",
+    "English/Universe.canvas",
+    "English/Vocabulary/Music/Planet System.canvas",
+    "English/Vocabulary/Music/Songs.md",
+    "English/Vocabulary/Music/Don't Stop Me Now - Queen.md",
+    "__Config/Templates/{{Verb}}.md",
+    "__Config/Templates/{{Song}}.md",
+    "__Config/Templates/{{Personal Note}}.md",
+    "English/Vocabulary/Music/__index.md",
     "English/Grammar/Verb/Planet System.canvas",
+    "English/Grammar/Verb/__index.md",
+    "English/Grammar/Galaxy.canvas",
+    "English/Vocabulary/Music",
     "English/Grammar/Verb/100 Most Common English Verbs.md",
     "English/Grammar/Verb/be.md",
-    "English/Grammar/Galaxy.canvas",
-    "English/Universe.canvas",
-    "English/Grammar/Verb/__index.md",
     "English/Grammar/Verb/have.md",
     "English/Grammar/Verb/Untitled.base",
     "English.md",
-    "__Config/Templates/{{Verb}}.md",
-    "__Config/Templates/{{Personal Note}}.md",
     "__Config/Templates/{{Map of Content}}.md",
     "__Config/Templates/{{Insight}}.md",
     "__Config/Templates/{{Concept}}.md",
