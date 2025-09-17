@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6861fb7a7b5b96c1",
+        "id": "63a04b5c6577140f",
         "type": "tabs",
         "children": [
           {
-            "id": "a730d77d81e47f99",
+            "id": "1e79c24e1be01da7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,20 +175,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7b4e1b27f6034141",
+  "active": "1e79c24e1be01da7",
   "lastOpenFiles": [
-    "Aula 1.md",
-    "English/Course/Notes/__index.md",
+    "English/Course/Notes/Book 3.md",
     "English/Course/Notes/Planetary System.canvas",
     "English/Course/Galaxy.canvas",
     "English/Universe.canvas",
+    "English/Course/Notes/__index.md",
+    "Book 3.md",
     "English/Grammar/Galaxy.canvas",
     "English/Grammar/Verb/Planet System.canvas",
+    "English/Grammar/Verb/__index.md",
     "English/Grammar/Verb/100 Most Common English Verbs.md",
+    "Aula 1.md",
     "English/Grammar/Verb/have.md",
     "English/Grammar/Verb/be.md",
     "English/Vocabulary/Galaxy.canvas",
-    "English/Grammar/Verb/__index.md",
     "English/Course/Notes",
     "English/Course",
     "English/Vocabulary/Music/Planet System.canvas",
@@ -213,12 +215,9 @@
     "__Config/Templates/type/Project.md",
     "__Config/Templates/type/Personal Note.md",
     "__Config/Templates/type/Map of Content.md",
-    "__Config/Templates/type/Insight.md",
-    "__Config/Templates/type/Concept.md",
     "__Config/Templates/type",
     "__Config/Templates",
     "__Config",
-    "English/Grammar/Verb",
-    "Welcome.md"
+    "English/Grammar/Verb"
   ]
 }

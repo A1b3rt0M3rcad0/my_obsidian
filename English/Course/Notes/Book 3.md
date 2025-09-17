@@ -4,8 +4,8 @@ tags:
 date: "17-09-2025"
 ---
 ## 🗺️ Overview
-Aqui tenho todas as anotações de minhas aulas na KNN
+Breve descrição do que este mapa cobre
 ##  📂 Links
-- [[Book 3]]
+- [[Aula 1]]
 ## 🔎 Review in the future
-- Revisar todas os livros periodicamente para consultas
+- Revisar aulas semanalmente
