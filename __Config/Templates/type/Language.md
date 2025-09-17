@@ -1,1 +1,1 @@
-Documento relacionado a estudo de linguas
+Documento relacionado a estudo de linguás

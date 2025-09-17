@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a44be7a9ecb0b332",
+        "id": "72db84a14ca2462d",
         "type": "tabs",
         "children": [
           {
-            "id": "27997a8f196a8e21",
+            "id": "916041600580acaf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,27 +173,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9037313f4d3b29ca",
+  "active": "7b4e1b27f6034141",
   "lastOpenFiles": [
-    "English/Grammar/Verb/be.md",
+    "English/Grammar/Verb/100 Most Common English Verbs.md",
     "English/Grammar/Verb/__index.md",
-    "Untitled.md",
+    "English/Grammar/Grammar.canvas",
     "English/English.canvas",
-    "English/Vocabulary.md",
-    "English/Grammar/Verb/100 Most Commom English Verbs.md",
-    "English/Vocabulary",
-    "English/Grammar",
-    "__Config/Templates/type/Project.md",
-    "__Config/Templates/type/Personal Note.md",
-    "__Config/Templates/type/Map of Content.md",
-    "__Config/Templates/type/Language.md",
-    "__Config/Templates/type/Insight.md",
-    "__Config/Templates/type/Concept.md",
+    "English.md",
+    "English/Grammar/Verb/have.md",
+    "English/Grammar/Verb/be.md",
     "__Config/Templates/{{Verb}}.md",
     "__Config/Templates/{{Personal Note}}.md",
     "__Config/Templates/{{Map of Content}}.md",
     "__Config/Templates/{{Insight}}.md",
     "__Config/Templates/{{Concept}}.md",
+    "__Config/Templates/type/Language.md",
+    "[[be]].md",
+    "Untitled.md",
+    "English/Vocabulary.md",
+    "English/Vocabulary",
+    "English/Grammar",
+    "__Config/Templates/type/Project.md",
+    "__Config/Templates/type/Personal Note.md",
+    "__Config/Templates/type/Map of Content.md",
+    "__Config/Templates/type/Insight.md",
+    "__Config/Templates/type/Concept.md",
     "__Config/Templates/type",
     "__Config/Templates",
     "__Config",

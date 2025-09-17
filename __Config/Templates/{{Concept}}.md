@@ -3,7 +3,7 @@ type: "[[Concept]]"
 tags:
 date: "{{date:DD-MM-YYYY}}"
 ---
-## 📌 Sumary
+## 📌 Summary
 
 Breve Explicação do assunto
 

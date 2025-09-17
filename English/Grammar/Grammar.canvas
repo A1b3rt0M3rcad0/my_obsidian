@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"9c418bd5760b0e73","type":"text","text":"Verb\n[Index](__Index)","x":-520,"y":-420,"width":250,"height":60,"color":"4"},
+		{"id":"ab21dad23bddd794","type":"text","text":"Grammar","x":-270,"y":-240,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"280e5eddab62e169","fromNode":"ab21dad23bddd794","fromSide":"top","toNode":"9c418bd5760b0e73","toSide":"right"}
+	]
+}

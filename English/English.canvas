@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"8729e531320ca26e","type":"text","text":"English","x":-100,"y":-180,"width":250,"height":60},
-		{"id":"b1f01e531b4edb60","type":"text","text":"Vocabulary","x":-100,"y":120,"width":250,"height":60},
-		{"id":"7e422cb0fb4dad79","type":"text","text":"Speaking","x":-480,"y":-60,"width":250,"height":60},
-		{"id":"7d7493e05ec6f790","type":"text","text":"Grammar\n","x":280,"y":-90,"width":250,"height":60},
-		{"id":"192ee560244d1d57","type":"text","text":"Listening","x":-225,"y":-400,"width":250,"height":60}
+		{"id":"8729e531320ca26e","type":"text","text":"English","x":-100,"y":-180,"width":250,"height":60,"color":"6"},
+		{"id":"b1f01e531b4edb60","type":"text","text":"Vocabulary","x":-100,"y":120,"width":250,"height":60,"color":"2"},
+		{"id":"7e422cb0fb4dad79","type":"text","text":"Speaking","x":-480,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"7d7493e05ec6f790","type":"text","text":"Grammar\n[Index](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FGrammar.canvas)","x":280,"y":-90,"width":250,"height":60,"color":"4"},
+		{"id":"192ee560244d1d57","type":"text","text":"Listening","x":-225,"y":-400,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"7dbe8d931ff25839","fromNode":"8729e531320ca26e","fromSide":"right","toNode":"7d7493e05ec6f790","toSide":"left"},
