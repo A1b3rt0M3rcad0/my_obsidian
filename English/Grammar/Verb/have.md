@@ -3,6 +3,7 @@ type: "[[Language]]"
 tags:
   - verb
   - english
+  - moon
 date: 17-09-2025
 ---
 ## 📌Basic Info

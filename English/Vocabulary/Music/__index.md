@@ -1,11 +1,14 @@
 ---
 type: "[[Map of Content]]"
 tags:
-date: "17-09-2025"
+  - planetary_system
+date: 17-09-2025
 ---
-## 🗺️ Overview
+## 🪐 Overview
 Breve descrição do que este mapa cobre
-##  📂 Links
+##  🌎 Planets
 - [[Songs]]
+## ✨ Related Topics
+- Adicionar tópicos relacionados fora do planetário
 ## 🔎 Review in the future
 - Adicionar mais fontes de vocabulary

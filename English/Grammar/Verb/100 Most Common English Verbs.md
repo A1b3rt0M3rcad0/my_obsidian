@@ -3,12 +3,13 @@ type: "[[Map of Content]]"
 tags:
   - english
   - verb
+  - planet
 date: 16-09-2025
 ---
-## 🗺️ Overview
-Este mapa cobre os 100 verbos mais usados no dia a dia em inglês, com links para suas notas individuais para estudo e prática.
+## 🌎 Overview
+Este planeta cobre os 100 verbos mais usados no dia a dia em inglês, com links para suas notas individuais para estudo e prática.
 
-## 📂 Links
+##  🌕 Moons
 - [[be]]
 - [[have]]
 - [[do]]
@@ -110,7 +111,8 @@ Este mapa cobre os 100 verbos mais usados no dia a dia em inglês, com links par
 - [[decide]]
 - [[pull]]
 
+## ✨ Related Topics
+
+## 📚 Resources
+
 ## 🔎 Review in the future
-- Adicionar exemplos de frases
-- Revisar tradução e uso no contexto
-- Marcar verbos irregulares
