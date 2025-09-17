@@ -1,7 +1,9 @@
 ---
 type: "[[Language]]"
 tags:
-date: "17-09-2025"
+  - verb
+  - english
+date: 17-09-2025
 ---
 ## 📌Basic Info
 

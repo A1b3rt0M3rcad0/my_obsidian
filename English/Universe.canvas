@@ -4,12 +4,14 @@
 		{"id":"b1f01e531b4edb60","type":"text","text":"Vocabulary\n[Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FVocabulary%2FGalaxy.canvas)","x":-100,"y":120,"width":250,"height":60,"color":"2"},
 		{"id":"7e422cb0fb4dad79","type":"text","text":"Speaking","x":-480,"y":-60,"width":250,"height":60,"color":"5"},
 		{"id":"7d7493e05ec6f790","type":"text","text":"Grammar\n[Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FGalaxy.canvas)","x":280,"y":-90,"width":250,"height":60,"color":"4"},
-		{"id":"192ee560244d1d57","type":"text","text":"Listening","x":-225,"y":-400,"width":250,"height":60,"color":"3"}
+		{"id":"4b296f70a19e24a8","type":"text","text":"Course\n[Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FCourse%2FGalaxy.canvas)","x":260,"y":-370,"width":250,"height":60},
+		{"id":"192ee560244d1d57","type":"text","text":"Listening","x":-380,"y":-400,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"7dbe8d931ff25839","fromNode":"8729e531320ca26e","fromSide":"right","toNode":"7d7493e05ec6f790","toSide":"left"},
 		{"id":"4cff1c2350b86476","fromNode":"8729e531320ca26e","fromSide":"left","toNode":"7e422cb0fb4dad79","toSide":"right"},
 		{"id":"ec2b11b53405258f","fromNode":"8729e531320ca26e","fromSide":"top","toNode":"192ee560244d1d57","toSide":"right"},
-		{"id":"a4a17dae1be30a0c","fromNode":"8729e531320ca26e","fromSide":"bottom","toNode":"b1f01e531b4edb60","toSide":"top"}
+		{"id":"a4a17dae1be30a0c","fromNode":"8729e531320ca26e","fromSide":"bottom","toNode":"b1f01e531b4edb60","toSide":"top"},
+		{"id":"6d44e812aad0e23a","fromNode":"8729e531320ca26e","fromSide":"top","toNode":"4b296f70a19e24a8","toSide":"left"}
 	]
 }

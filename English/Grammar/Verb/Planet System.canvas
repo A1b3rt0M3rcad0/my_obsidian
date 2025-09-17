@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6fda12b658d7f793","type":"text","text":"Verb\n[Check Planetary System](__index)\n[Back To Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FGalaxy.canvas)","x":-160,"y":-220,"width":240,"height":100,"color":"6"},
+		{"id":"6fda12b658d7f793","type":"text","text":"Verb\n[Check Planetary System](English/Grammar/Verb/__index.md)\n[Back To Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FGalaxy.canvas)","x":-160,"y":-220,"width":240,"height":100,"color":"6"},
 		{"id":"9e66a517b0b87bf6","type":"text","text":"100 Most Common English Verbs\n[Planet](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FVerb%2F100%20Most%20Common%20English%20Verbs)","x":-150,"y":-500,"width":220,"height":100,"color":"4"}
 	],
 	"edges":[

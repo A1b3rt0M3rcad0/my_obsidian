@@ -1,7 +1,9 @@
 ---
 type: "[[Map of Content]]"
 tags:
-date: "16-09-2025"
+  - english
+  - verb
+date: 16-09-2025
 ---
 ## 🗺️ Overview
 Este mapa cobre os 100 verbos mais usados no dia a dia em inglês, com links para suas notas individuais para estudo e prática.

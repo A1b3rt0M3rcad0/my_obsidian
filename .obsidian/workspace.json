@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "242317af6b0904da",
+        "id": "6861fb7a7b5b96c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e60e6651609fd006",
+            "id": "a730d77d81e47f99",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "English/Universe.canvas",
-                "viewState": {
-                  "x": 25,
-                  "y": -110.00000000000001,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Universe"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -172,20 +165,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "9037313f4d3b29ca",
+  "active": "7b4e1b27f6034141",
   "lastOpenFiles": [
-    "English/Vocabulary/Galaxy.canvas",
+    "Aula 1.md",
+    "English/Course/Notes/__index.md",
+    "English/Course/Notes/Planetary System.canvas",
+    "English/Course/Galaxy.canvas",
     "English/Universe.canvas",
+    "English/Grammar/Galaxy.canvas",
+    "English/Grammar/Verb/Planet System.canvas",
+    "English/Grammar/Verb/100 Most Common English Verbs.md",
+    "English/Grammar/Verb/have.md",
+    "English/Grammar/Verb/be.md",
+    "English/Vocabulary/Galaxy.canvas",
+    "English/Grammar/Verb/__index.md",
+    "English/Course/Notes",
+    "English/Course",
     "English/Vocabulary/Music/Planet System.canvas",
     "English/Vocabulary/Music/Songs.md",
     "English/Vocabulary/Music/Don't Stop Me Now - Queen.md",
@@ -193,13 +198,7 @@
     "__Config/Templates/{{Song}}.md",
     "__Config/Templates/{{Personal Note}}.md",
     "English/Vocabulary/Music/__index.md",
-    "English/Grammar/Verb/Planet System.canvas",
-    "English/Grammar/Verb/__index.md",
-    "English/Grammar/Galaxy.canvas",
     "English/Vocabulary/Music",
-    "English/Grammar/Verb/100 Most Common English Verbs.md",
-    "English/Grammar/Verb/be.md",
-    "English/Grammar/Verb/have.md",
     "English/Grammar/Verb/Untitled.base",
     "English.md",
     "__Config/Templates/{{Map of Content}}.md",
@@ -220,7 +219,6 @@
     "__Config/Templates",
     "__Config",
     "English/Grammar/Verb",
-    "English",
     "Welcome.md"
   ]
 }
