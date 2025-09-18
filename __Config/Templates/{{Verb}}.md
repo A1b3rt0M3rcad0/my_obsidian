@@ -1,6 +1,10 @@
 ---
 type: "[[Language]]"
 tags:
+  - english
+  - moon
+  - flashcards
+  - verb
 date: "{{date:DD-MM-YYYY}}"
 ---
 ## 📌Basic Info
@@ -30,3 +34,5 @@ destaca usos especiais ou exceções
 "I go to school every day." → Eu vou para a escola todos os dias.
 ### Source / Notes: 
 dictionary / lesson / textbook
+
+## 🃏 Flashcard

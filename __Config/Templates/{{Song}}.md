@@ -4,12 +4,13 @@ tags:
   - english
   - moon
   - "#flashcards"
+  - song
 date: "{{date:DD-MM-YYYY}}"
 ---
 ## 📝 Context
 - Music Name: 
 - Artist: 
-- Yar: 
+- Year: 
 - Motivation:
 
 ## 🎼 Lyrics

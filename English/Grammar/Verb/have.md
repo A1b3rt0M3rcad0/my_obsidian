@@ -4,6 +4,7 @@ tags:
   - verb
   - english
   - moon
+  - flashcards
 date: 17-09-2025
 ---
 ## 📌Basic Info
@@ -96,3 +97,75 @@ they had had a bad time [when](https://dictionary.cambridge.org/dictionary/engli
 
 ### Source / Notes: 
 https://dictionary.cambridge.org/dictionary/english/have
+## 🃏 Flashcard
+### Conjugations – Present Simple (Presente Simples)
+Presente Simples, Como dizer "Eu tenho" em inglês?::I have
+<!--SR:!2025-09-22,4,270-->
+Presente Simples, Como dizer "Você tem" em inglês?::You have
+<!--SR:!2025-09-21,3,250-->
+Presente Simples, Como dizer "Ele / Ela / Isso tem" em inglês?::He / She / It has
+<!--SR:!2025-09-21,3,250-->
+Presente Simples, Como dizer "Nós temos" em inglês?::We have
+<!--SR:!2025-09-21,3,250-->
+Presente Simples, Como dizer "Eles / Elas têm" em inglês?::They have
+<!--SR:!2025-09-21,3,250-->
+Presente Simples, Como dizer "Vocês têm" em inglês?::You have
+<!--SR:!2025-09-21,3,250-->
+### Conjugations – Past Simple (Passado Simples)
+Passado Simples, Como dizer "Eu tive" em inglês?::I had
+<!--SR:!2025-09-21,3,250-->
+Passado Simples, Como dizer "Você teve" em inglês?::You had
+<!--SR:!2025-09-21,3,250-->
+Passado Simples, Como dizer "Ele / Ela / Isso teve" em inglês?::He / She / It had
+<!--SR:!2025-09-19,1,230-->
+Passado Simples, Como dizer "Nós tivemos" em inglês?::We had
+<!--SR:!2025-09-21,3,250-->
+Passado Simples, Como dizer "Eles / Elas tiveram" em inglês?::They had
+<!--SR:!2025-09-19,1,230-->
+Passado Simples, Como dizer "Vocês tiveram" em inglês?::You had
+<!--SR:!2025-09-21,3,250-->
+### Conjugations – Past Participle (Particípio Passado)
+Particípio Passado, Como dizer "Eu tenho tido" em inglês?::I have had
+<!--SR:!2025-09-19,1,230-->
+Particípio Passado, Como dizer "Você tem tido" em inglês?::You have had
+<!--SR:!2025-09-19,1,230-->
+Particípio Passado, Como dizer "Ele / Ela / Isso tem tido" em inglês?::He / She / It has had
+<!--SR:!2025-09-21,3,250-->
+Particípio Passado, Como dizer "Nós temos tido" em inglês?::We have had
+<!--SR:!2025-09-21,3,250-->
+Particípio Passado, Como dizer "Eles / Elas têm tido" em inglês?::They have had
+<!--SR:!2025-09-19,1,230-->
+Particípio Passado, Como dizer "Vocês têm tido" em inglês?::You have had
+<!--SR:!2025-09-21,3,250-->
+### Gerund / Participle (Gerúndio / Particípio)
+Gerúndio, Como dizer "Eu estou tendo dificuldades" em inglês?::I am having difficulties
+<!--SR:!2025-09-19,1,230-->
+Gerúndio, Como dizer "Ela está tendo problemas" em inglês?::She is having problems
+<!--SR:!2025-09-19,1,230-->
+Gerúndio, Como dizer "Ele está tendo um bom dia" em inglês?::He is having a good day
+<!--SR:!2025-09-21,3,250-->
+Gerúndio, Como dizer "Nós estamos tendo problemas" em inglês?::We are having problems
+<!--SR:!2025-09-19,1,230-->
+### Examples – Writing
+Presente Simples, Como escrever "Eu tenho um carro" em inglês?::I have a car
+<!--SR:!2025-09-22,4,270-->
+Presente Simples, Como escrever "Você tem uma casa" em inglês?::You have a house
+<!--SR:!2025-09-22,4,270-->
+Presente Simples, Como escrever "Ele tem uma bicicleta" em inglês?::He has a bike
+<!--SR:!2025-09-19,1,230-->
+Passado Simples, Como escrever "Eu tive um bom dia" em inglês?::I had a good day
+<!--SR:!2025-09-19,1,230-->
+Passado Simples, Como escrever "Nós tivemos uma reunião" em inglês?::We had a meeting
+<!--SR:!2025-09-21,3,250-->
+Passado Simples, Como escrever "Eles tiveram problemas" em inglês?::They had problems
+<!--SR:!2025-09-19,1,230-->
+Particípio Passado, Como escrever "Eu tenho tido sorte" em inglês?::I have had luck
+<!--SR:!2025-09-21,3,250-->
+Particípio Passado, Como escrever "Ela tem tido sucesso" em inglês?::She has had success
+<!--SR:!2025-09-19,1,230-->
+Particípio Passado, Como escrever "Nós temos tido dificuldades" em inglês?::We have had difficulties
+<!--SR:!2025-09-21,3,250-->
+Gerúndio / Particípio, Como escrever "Ele está tendo problemas" em inglês?::He is having problems
+<!--SR:!2025-09-19,1,230-->
+Gerúndio / Particípio, Como escrever "Nós estamos tendo uma festa" em inglês?::We are having a party
+<!--SR:!2025-09-19,1,230-->
