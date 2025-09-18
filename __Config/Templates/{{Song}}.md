@@ -1,13 +1,16 @@
 ---
 type: "[[Language]]"
 tags:
+  - english
+  - moon
+  - "#flashcards"
 date: "{{date:DD-MM-YYYY}}"
 ---
 ## 📝 Context
-- Nome da música: 
-- Artista: 
-- Álbum / Ano: 
-- Motivo do estudo: (ex.: melhorar listening, aprender expressões, expandir vocabulário)
+- Music Name: 
+- Artist: 
+- Yar: 
+- Motivation:
 
 ## 🎼 Lyrics
 - Letra completa da música (ou trechos selecionados)
@@ -22,10 +25,8 @@ date: "{{date:DD-MM-YYYY}}"
   - Expressão 2 → significado / exemplo
 
 ## ✍️ Notes
-- Observações sobre gramática, estilo ou pronúncia
-- Estruturas interessantes (ex.: condicional, present perfect, comparações)
+### Phrases
 
 ## 💭 Reflections
-- Ideias que surgiram ao estudar a música
-- Conexões com outras músicas ou temas
-- Como usar o vocabulário em outras situações
+### What do you understand about music?
+## 🃏 Flashcard
