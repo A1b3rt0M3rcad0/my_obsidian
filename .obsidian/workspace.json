@@ -143,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Universe"
+              "title": "Sumário de Universe"
             }
           },
           {
@@ -154,6 +154,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "e179e8058e910c79",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
             }
           }
         ],
@@ -173,16 +183,20 @@
       "command-palette:Abrir paleta de comandos": false,
       "zk-prefixer:Criar nova nota única": false,
       "bases:Criar nova base": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9037313f4d3b29ca",
   "lastOpenFiles": [
     "Multiverse.canvas",
-    "English/Universe.canvas",
-    "English/Grammar/Galaxy.canvas",
-    "English/Grammar/Verb/Planet System.canvas",
     "English/Grammar/Verb/100 Most Common English Verbs.md",
+    "English/Grammar/Verb/Planet System.canvas",
+    "English/Grammar/Galaxy.canvas",
+    "English/Universe.canvas",
+    "English/Course/Notes/Book 3.md",
+    "English/Course/Notes/Planetary System.canvas",
+    "English/Course/Galaxy.canvas",
     "English/Vocabulary/Music/Don't Stop Me Now - Queen.md",
     "English/Vocabulary/Music/Songs.md",
     "English/Vocabulary/Music/Planet System.canvas",
@@ -190,10 +204,7 @@
     "English/Grammar/Verb/__index.md",
     "English/Grammar/Verb/have.md",
     "English/Grammar/Verb/be.md",
-    "English/Course/Galaxy.canvas",
-    "English/Course/Notes/Planetary System.canvas",
     "English/Course/Notes/__index.md",
-    "English/Course/Notes/Book 3.md",
     "English/Vocabulary/Music/__index.md",
     "Aula 1.md",
     "__Config/Templates/{{Planetary System}}.md",
