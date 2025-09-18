@@ -1,11 +1,13 @@
 ---
 type: "[[Map of Content]]"
 tags:
-date: "17-09-2025"
+  - planetary_system
+date: 17-09-2025
 ---
-## 🗺️ Overview
+## 🪐 Overview
 Aqui tenho todas as anotações de minhas aulas na KNN
-##  📂 Links
+## 🌎 Planets
 - [[Book 3]]
+## ✨ Related Topics
+
 ## 🔎 Review in the future
-- Revisar todas os livros periodicamente para consultas

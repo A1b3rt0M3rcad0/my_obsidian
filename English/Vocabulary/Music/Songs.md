@@ -1,11 +1,15 @@
 ---
 type: "[[Map of Content]]"
 tags:
-date: "17-09-2025"
+  - planet
+date: 17-09-2025
 ---
-## 🗺️ Overview
+##  🌎 Overview
 Músicas para estudar e aumentar o vocabulário
-##  📂 Links
+##  🌕 Moons
 - [[Don't Stop Me Now - Queen]]
+## ✨ Related Topics
+
+## 📚 Resources
+
 ## 🔎 Review in the future
-- O que falta adicionar?
