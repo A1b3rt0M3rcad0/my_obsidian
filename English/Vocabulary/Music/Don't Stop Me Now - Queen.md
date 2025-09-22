@@ -156,57 +156,57 @@ Tonight, I'm gonna have myself a real good time::Hoje à noite, irei me divertir
 I feel alive::Eu me sinto vivo
 <!--SR:!2025-09-21,3,250-->
 And the world, I'll turn it inside out, yeah!::E o mundo, irei virar do avesso
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-04,12,270-->
 I'm floating around in ecstasy::Estou flutuando em ecstasy
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,11,270-->
 So don't stop me now::Então não me pare agora
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-07,15,290-->
 Don't stop me::Não me pare
 <!--SR:!2025-09-22,4,270-->
 'Cause I'm having a good time, having a good time::Porque estou me divertindo, me divertindo
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-09-24,2,230-->
 I'm a shooting star leaping through the sky::Eu sou uma estrela-cadente saltando pelo céu
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-04,12,270-->
 Like a tiger defying the laws of gravity::Igual um tigre desafiando as leis da gravidade
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-02,10,270-->
 I'm a racing car passing by, like Lady Godiva::Eu sou um carro passando por aí, igual Lady Godiva
 <!--SR:!2025-09-23,3,230-->
 I'm gonna go, go, go::Eu vou, vou, vou
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-06,14,290-->
 There's no stopping me::Nada pode me parar
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,11,270-->
 I'm burning through the sky, yeah!::Estou atravessando o céu em chamas, yeah!
 <!--SR:!2025-09-21,3,250-->
 Two hundred degrees::200 graus
 <!--SR:!2025-09-22,4,270-->
 That's why they call me Mister Fahrenheit::Por isso eles me chamam, Senhor Fahrenheit
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-07,15,290-->
 I'm travelling at the speed of light::Estou viajando na velocidade da luz
 <!--SR:!2025-09-21,3,250-->
 I wanna make a supersonic man out of you::Eu quero transformar você em um homem supersônico
 <!--SR:!2025-09-21,2,230-->
 Traduza Tonight, I'm gonna have myself a real good time::Hoje à noite, irei me divertir de verdade
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-01,9,251-->
 Traduza I feel alive::Eu me sinto vivo
 <!--SR:!2025-09-23,4,271-->
 Traduza And the world, I'll turn it inside out, yeah!::E o mundo, irei virar do avesso
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-03,11,271-->
 Traduza I'm floating around in ecstasy::Estou flutuando em êxtase
 <!--SR:!2025-09-22,3,251-->
 Traduza So don't stop me now::Então não me pare agora
 <!--SR:!2025-09-22,3,251-->
 Traduza 'Cause I'm having a good time, having a good time::Porque estou me divertindo, me divertindo
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-04,12,271-->
 Traduza I'm a shooting star leaping through the sky::Sou uma estrela-cadente saltando pelo céu
 <!--SR:!2025-09-23,4,271-->
 Traduza Like a tiger defying the laws of gravity::Igual um tigre desafiando as leis da gravidade
 <!--SR:!2025-09-23,4,271-->
 Traduza I'm a racing car passing by, like Lady Godiva::Sou um carro passando por aí, igual Lady Godiva
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-04,12,271-->
 Traduza I'm gonna go, go, go::Vou, vou, vou
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza There's no stopping me::Nada pode me parar
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-03,11,271-->
 Traduza I'm burning through the sky, yeah!::Estou atravessando o céu em chamas, yeah!
 <!--SR:!2025-09-23,3,251-->
 Traduza Two hundred degrees::200 graus
@@ -216,21 +216,21 @@ Traduza That's why they call me Mister Fahrenheit::Por isso eles me chamam, Senh
 Traduza I'm travelling at the speed of light::Estou viajando na velocidade da luz
 <!--SR:!2025-09-23,4,271-->
 Traduza I wanna make a supersonic man out of you::Eu quero transformar você em um homem supersônico
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza I wanna make a supersonic woman of you::Eu quero transformar você em uma mulher supersônica
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-04,12,271-->
 Traduza I'm a rocket ship on my way to Mars::Sou um foguete a caminho de Marte
-<!--SR:!2025-09-21,1,211-->
+<!--SR:!2025-09-24,2,211-->
 Traduza On a collision course::Em uma rota de colisão
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza I am a satellite, I'm out of control::Sou um satélite, estou fora de controle
 <!--SR:!2025-09-22,3,251-->
 Traduza I am a sex machine ready to reload::Sou uma máquina de sexo pronta para recarregar
 <!--SR:!2025-09-22,3,251-->
 Traduza Like an atom bomb about to::Como uma bomba atômica prestes a
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza Oh, oh, oh, oh, oh, explode::Oh, oh... explode
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza Don't stop me, don't stop me, don't stop me::Não me pare, não me pare, não me pare
 <!--SR:!2025-09-23,4,271-->
 Traduza Hey, hey, hey::Hey, hey, hey
@@ -238,42 +238,42 @@ Traduza Hey, hey, hey::Hey, hey, hey
 Traduza Don't stop me, don't stop me, ooh, ooh, ooh::Não me pare, não me pare, ooh, ooh, ooh
 <!--SR:!2025-09-23,4,271-->
 Traduza I like it::Eu gosto disso
-<!--SR:!2025-09-21,1,211-->
+<!--SR:!2025-09-25,3,231-->
 Traduza Have a good time, good time::Divirta-se, divirta-se
 <!--SR:!2025-09-23,3,251-->
 Traduza I'm having such a good time::Estou me divertindo muito
-<!--SR:!2025-09-22,2,231-->
+<!--SR:!2025-09-29,7,251-->
 Traduza I'm having a ball::Estou me divertindo muito (informal, como se estivesse se esbaldando)
 <!--SR:!2025-09-22,3,251-->
 Traduza If you wanna have a good time, just give me a call::Se você quer se divertir, basta me chamar (ligar)
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-04,12,271-->
 Traduza Don't stop me now ('cause I'm havin' a good time)::Não me pare agora (porque estou me divertindo)
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-10-02,10,271-->
 Traduza Don't stop me now (yes, I'm havin' a good time)::Não me pare agora (porque estou me divertindo)
-<!--SR:!2025-09-22,3,251-->
+<!--SR:!2025-09-30,8,251-->
 Traduza I don't wanna stop at all::Eu não quero parar de jeito nenhum
-<!--SR:!2025-09-21,1,211-->
+<!--SR:!2025-09-23,1,191-->
 ### Concepts / Doubt
 degrees::Graus (temperatura). Na música: Two hundred degrees → 200 graus
 <!--SR:!2025-09-21,3,250-->
 leaping::Gerúndio do verbo to leap → saltando / pulando
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,11,270-->
 through::Preposição → através, pelo. Ex: leaping through → saltando pelo
-<!--SR:!2025-09-21,2,230-->
+<!--SR:!2025-09-27,5,230-->
 passing / passing by::Gerúndio do verbo to pass. passing by → passando por / cruzando pelo / passando rápido
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,11,270-->
 gonna::Forma informal de going to → eu vou / ele vai / etc.
-<!--SR:!2025-09-21,2,230-->
+<!--SR:!2025-09-27,5,230-->
 there::Palavra versátil: posição ou existência. Ex: There's no stopping me → Nada pode me parar
 <!--SR:!2025-09-23,3,230-->
 I'm burning through the sky::Expressão figurativa: Estou atravessando o céu em chamas, yeah!
 <!--SR:!2025-09-21,3,250-->
 That's why::“É por isso que” / “Por isso”
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,11,270-->
 to want::Querer. Ex: I wanna make → Eu quero criar
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-09-29,7,250-->
 to make::Fazer / criar. Ex: I wanna make → Eu quero criar
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-08,16,290-->
 O que significa "gonna"::Forma informal de going to → eu vou / ele vai / etc.
 <!--SR:!2025-09-22,3,251-->
 O que significa "wanna"::Forma informal de want to → quero / quer
@@ -293,4 +293,4 @@ Explique "such"::“Tão”, “tamanho”, “de tal maneira/tipo”. Estrutura
 Explique "at all"::“De jeito nenhum”, “nem um pouco”. Usado para reforçar negativas. Ex: I don’t like it at all → Eu não gosto disso nem um pouco
 <!--SR:!2025-09-22,2,231-->
 Explique "about to"::“Prestes a”. Ex: Like an atom bomb about to → Como uma bomba atômica prestes a
-<!--SR:!2025-09-22,2,231-->
+<!--SR:!2025-09-29,7,251-->
