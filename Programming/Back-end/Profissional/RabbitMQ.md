@@ -1,7 +1,9 @@
 ---
 type: "[[Concept]]"
 tags:
-date: "24-09-2025"
+  - moon
+  - programming
+date: 24-09-2025
 ---
 ## 📌 Summary
 

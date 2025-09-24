@@ -1,8 +1,11 @@
 ---
 type: "[[Map of Content]]"
 tags:
-date: "24-09-2025"
+  - multiverse
+date: 24-09-2025
 ---
-## 🗺️ Multiverse
-Todo o conteúdo
-##  📂 Universes
+## 🗺️ Overview
+Todos os universos de conteúdo disponíveis de meu conhecimento
+##  📂 Links
+- [English](English/__index.md)
+- [Programming](Programming/__index.md)

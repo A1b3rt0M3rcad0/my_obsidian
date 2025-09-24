@@ -2,6 +2,7 @@
 type: "[[Map of Content]]"
 tags:
   - planetary_system
+  - english
 date: 17-09-2025
 ---
 ## 🪐 Overview

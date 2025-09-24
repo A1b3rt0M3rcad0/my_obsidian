@@ -2,6 +2,7 @@
 type: "[[Map of Content]]"
 tags:
   - planetary_system
+  - programming
 date: 24-09-2025
 ---
 ## 🗺️ Overview

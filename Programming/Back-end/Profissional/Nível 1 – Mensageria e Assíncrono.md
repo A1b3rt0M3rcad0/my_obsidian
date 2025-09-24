@@ -2,7 +2,8 @@
 type: "[[Map of Content]]"
 tags:
   - planet
-date: "24-09-2025"
+  - programming
+date: 24-09-2025
 ---
 ## 🌎 Overview
 Este planeta cobre todo o conteúdo de mensageiria e comunicação assíncrona entre serviços
