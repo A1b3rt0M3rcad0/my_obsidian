@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"1e1c06d45eb9dc9b","type":"text","text":"Notes\n[Planetary System](obsidian://open?vault=Obsidian%20Vault&file=English%2FCourse%2FNotes%2FPlanetary%20System.canvas)","x":-80,"y":-420,"width":250,"height":60,"color":"5"},
-		{"id":"fb90b56953eded5f","type":"text","text":"Course\n[Back to Universe](obsidian://open?vault=Obsidian%20Vault&file=English%2FUniverse.canvas)","x":-85,"y":-260,"width":260,"height":80,"color":"6"}
-	],
-	"edges":[
-		{"id":"1966da85244b42eb","fromNode":"fb90b56953eded5f","fromSide":"top","toNode":"1e1c06d45eb9dc9b","toSide":"bottom"}
-	]
-}

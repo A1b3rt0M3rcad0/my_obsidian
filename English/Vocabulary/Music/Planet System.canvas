@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"56f0ab311813de9c","type":"text","text":"Music\n[Check Planetary System](obsidian://open?vault=Obsidian%20Vault&file=English%2FVocabulary%2FMusic%2F__index)\n[Back To Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FVocabulary%2FGalaxy.canvas)","x":-120,"y":-180,"width":250,"height":100,"color":"6"},
-		{"id":"8e81e7678577f82b","type":"text","text":"Songs\n[Planet](Songs)","x":-120,"y":-380,"width":250,"height":60,"color":"4"}
-	],
-	"edges":[
-		{"id":"b795ab3799bdb461","fromNode":"56f0ab311813de9c","fromSide":"top","toNode":"8e81e7678577f82b","toSide":"bottom"}
-	]
-}

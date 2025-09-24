@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"9c418bd5760b0e73","type":"text","text":"Verb\n[Planetary System](obsidian://open?vault=Obsidian%20Vault&file=English%2FGrammar%2FVerb%2FPlanet%20System.canvas)","x":-830,"y":-560,"width":250,"height":60,"color":"4"},
-		{"id":"ab21dad23bddd794","type":"text","text":"Grammar\n[Back to Universe](obsidian://open?vault=Obsidian%20Vault&file=English%2FUniverse.canvas)","x":-660,"y":-380,"width":250,"height":60,"color":"6"}
-	],
-	"edges":[
-		{"id":"280e5eddab62e169","fromNode":"ab21dad23bddd794","fromSide":"top","toNode":"9c418bd5760b0e73","toSide":"right"}
-	]
-}

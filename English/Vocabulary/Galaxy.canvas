@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"7482b43c377b17c6","type":"text","text":"Music\n[Planetary System](obsidian://open?vault=Obsidian%20Vault&file=English%2FVocabulary%2FMusic%2FPlanet%20System.canvas)","x":-60,"y":-380,"width":250,"height":60,"color":"5"},
-		{"id":"08e6b2dd2ac0a25a","type":"text","text":"Vocabulary\n[Back to Universe](obsidian://open?vault=Obsidian%20Vault&file=English%2FUniverse.canvas)","x":-60,"y":-200,"width":250,"height":60,"color":"6"}
-	],
-	"edges":[
-		{"id":"35a0054e098116ee","fromNode":"08e6b2dd2ac0a25a","fromSide":"top","toNode":"7482b43c377b17c6","toSide":"bottom"}
-	]
-}

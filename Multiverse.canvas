@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"2ddafbceea26ac50","type":"text","text":"Multiverse","x":-160,"y":-260,"width":250,"height":60,"color":"6"},
-		{"id":"ff952d1405b8c9ba","type":"text","text":"English\n[Universe](obsidian://open?vault=Obsidian%20Vault&file=English%2FUniverse.canvas)","x":-160,"y":-440,"width":250,"height":60,"color":"4"}
-	],
-	"edges":[
-		{"id":"2c89d73ee6b725e7","fromNode":"2ddafbceea26ac50","fromSide":"top","toNode":"ff952d1405b8c9ba","toSide":"bottom"}
-	]
-}

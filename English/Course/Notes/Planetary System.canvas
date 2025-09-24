@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"cf9b8955295a4a3d","type":"text","text":"Notes\n[Check Planetary System](obsidian://open?vault=Obsidian%20Vault&file=English%2FCourse%2FNotes%2F__index)\n[Back To Galaxy](obsidian://open?vault=Obsidian%20Vault&file=English%2FCourse%2FGalaxy.canvas)","x":-120,"y":-120,"width":260,"height":80,"color":"5"},
-		{"id":"de9381b1b3d791d4","type":"text","text":"Book 3 \n[Planet](obsidian://open?vault=Obsidian%20Vault&file=English%2FCourse%2FNotes%2FBook%203)","x":-115,"y":-360,"width":250,"height":60,"color":"5"}
-	],
-	"edges":[
-		{"id":"e7d0f3bd784ece67","fromNode":"cf9b8955295a4a3d","fromSide":"top","toNode":"de9381b1b3d791d4","toSide":"bottom"}
-	]
-}
