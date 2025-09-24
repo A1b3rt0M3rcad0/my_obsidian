@@ -184,7 +184,7 @@ Translate this sentence: "Eles já fizeram a tarefa deles."::They have done thei
 
 #### 📚 Examples – Past Perfect
 Translate this sentence: "Eu tinha feito minha tarefa."::I had done my task
-<!--SR:!2025-09-21,1,230-->
+<!--SR:!2025-09-25,1,210-->
 Translate this sentence: "Você tinha feito sua tarefa."::You had done your task  
 Translate this sentence: "Ele tinha feito a tarefa dele."::He had done his task  
 Translate this sentence: "Nós tínhamos feito nossa tarefa."::We had done our task  
