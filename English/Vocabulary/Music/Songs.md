@@ -8,6 +8,7 @@ date: 17-09-2025
 Músicas para estudar e aumentar o vocabulário
 ##  🌕 Moons
 - [[Don't Stop Me Now - Queen]]
+- [[David Kushner - Daylight]]
 ## ✨ Related Topics
 
 ## 📚 Resources
