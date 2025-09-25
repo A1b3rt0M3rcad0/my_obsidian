@@ -81,6 +81,7 @@ Escolha a forma correta para algo que acontecerá no futuro: I will ___ somethin
 Complete no passado simples relatando declaração indireta: She ___ that she loves chocolate.::said
 
 Complete no passado simples para relatar algo que o grupo disse: We ___ we are leaving at 5 PM.::said
+<!--SR:!2025-09-26,2,246-->
 
 Use o presente contínuo para expressar algo sendo dito neste momento: I am ___ sorry for being late.::saying
 

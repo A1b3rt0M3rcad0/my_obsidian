@@ -75,9 +75,9 @@ We are being idiots -> Nós estamos sendo idiotas
 
 ### Conjugations – Present Simple (Presente Simples)
 Presente Simples, Como dizer "Eu sou / Eu estou" em inglês?::I am
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-10,16,290-->
 Presente Simples, Como dizer "Você é / Você está" em inglês?::You are
-<!--SR:!2025-09-22,2,230-->
+<!--SR:!2025-10-01,7,250-->
 Presente Simples, Como dizer "Ele / Ela / Isso é / está" em inglês?::He / She / It is
 <!--SR:!2025-09-26,2,230-->
 Presente Simples, Como dizer "Nós somos / Estamos" em inglês?::We are
@@ -93,13 +93,13 @@ Passado Simples, Como dizer "Eu era / Eu estava" em inglês?::I was
 Passado Simples, Como dizer "Você era / Você estava" em inglês?::You were
 <!--SR:!2025-09-26,2,230-->
 Passado Simples, Como dizer "Ele / Ela / Isso era / estava" em inglês?::He / She / It was
-<!--SR:!2025-09-21,1,210-->
+<!--SR:!2025-09-25,1,190-->
 Passado Simples, Como dizer "Nós éramos / Nós estávamos" em inglês?::We were
 <!--SR:!2025-09-26,2,230-->
 Passado Simples, Como dizer "Eles / Elas eram / estavam" em inglês?::They were
-<!--SR:!2025-09-22,4,270-->
+<!--SR:!2025-10-06,12,270-->
 Passado Simples, Como dizer "Vocês eram / estavam" em inglês?::You were
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-09-26,2,230-->
 ### Conjugations – Past Participle (Particípio Passado)
 Particípio Passado, Como dizer "Eu tenho sido / Eu tenho estado" em inglês?::I have being
 <!--SR:!2025-09-29,5,230-->
@@ -108,9 +108,9 @@ Particípio Passado, Como dizer "Você tem sido / Você tem estado" em inglês?:
 Particípio Passado, Como dizer "Ele / Ela / Isso tem sido / tem estado" em inglês?::He / She / It has being
 <!--SR:!2025-09-29,5,230-->
 Particípio Passado, Como dizer "Nós temos sido / temos estado" em inglês?::We have been
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-09-26,2,230-->
 Particípio Passado, Como dizer "Eles / Elas têm sido / têm estado" em inglês?::They have being
-<!--SR:!2025-09-22,2,230-->
+<!--SR:!2025-09-25,1,210-->
 Particípio Passado, Como dizer "Vocês têm sido / têm estado" em inglês?::You have been
 <!--SR:!2025-09-26,2,230-->
 ### Gerund / Participle (Gerúndio / Particípio)
@@ -144,8 +144,8 @@ Particípio Passado, Como escrever "Ela tem sido legal" em inglês?::She has bee
 Particípio Passado, Como escrever "Nós temos sido pobres" em inglês?::We have being poor
 <!--SR:!2025-09-26,2,210-->
 Gerúndio / Particípio, Como escrever "Ela está sendo legal" em inglês?::She is being nice
-<!--SR:!2025-09-21,3,250-->
+<!--SR:!2025-10-03,9,250-->
 Gerúndio / Particípio, Como escrever "Ele está sendo idiota" em inglês?::He is being an idiot
-<!--SR:!2025-09-21,1,210-->
+<!--SR:!2025-09-25,1,190-->
 ## Source / Notes
 Fonte: https://dictionary.cambridge.org/us/dictionary/english/be
