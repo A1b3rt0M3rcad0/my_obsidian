@@ -61,26 +61,26 @@ I wanna make a supersonic woman of you - Eu quero transformar você em uma mulhe
 
 Don't stop me, don't stop me, don't stop me  - Não me pare, não me pare, não me pare
 Hey, hey, hey  
-Don't stop me, don't stop me, ooh, ooh, ooh  
-I like it  
-Don't stop me, don't stop me  
-Have a good time, good time  
-Don't stop me, don't stop me
+Don't stop me, don't stop me, ooh, ooh, ooh  - Não me pare
+I like it  - Eu gosto disso
+Don't stop me, don't stop me - Não me pare, Não me pare  
+Have a good time, good time  - Se divirta, divirta
+Don't stop me, don't stop me - Não me pare, não me pare
 
-Ooh, I'm burning through the sky, yeah!  
-Two hundred degrees  
-That's why they call me Mister Fahrenheit  
-I'm travelling at the speed of light  
-I wanna make a supersonic man out of you
+Ooh, I'm burning through the sky, yeah!  - Ooh, estou atravessando os céus em chamas, yeah!
+Two hundred degrees  - 200 graus
+That's why they call me Mister Fahrenheit - Por isso eles me chamam, senhor Fahrenheit  
+I'm travelling at the speed of light  - Estou viajando na velocidade da luz
+I wanna make a supersonic man out of you - Eu quero transformar você em um homem supersônico
 
-Don't stop me now  
-I'm having such a good time  
-I'm having a ball  
-Don't stop me now  
-If you wanna have a good time, just give me a call  
-Don't stop me now ('cause I'm havin' a good time)  
-Don't stop me now (yes, I'm havin' a good time)  
-I don't wanna stop at all
+Don't stop me now  - Não me pare agora
+I'm having such a good time  - Estou me divertindo muito
+I'm having a ball  - Estou me divertindo muito
+Don't stop me now  - Não me pare agora
+If you wanna have a good time, just give me a call - Se você também quer se divertir, basta me ligar  
+Don't stop me now ('cause I'm havin' a good time)  - Não me pare agora (Pois estou me divertindo)
+Don't stop me now (yes, I'm havin' a good time)  - Não me pare agora (Sim, estou me divertindo)
+I don't wanna stop at all (Nada pode me parar)
 
 ## 🌐 Vocabulary
 ### Doubts
