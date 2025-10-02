@@ -119,7 +119,7 @@ Gerúndio, Como dizer "Eu estou sendo cuidadoso" em inglês?::I am being careful
 Gerúndio, Como dizer "Eu estou sendo gentil" em inglês?::I am being nice
 <!--SR:!2025-09-29,5,230-->
 Gerúndio, Como dizer "Ela está sendo gentil" em inglês?::She is being nice
-<!--SR:!2025-09-26,2,210-->
+<!--SR:!2025-10-02,1,190-->
 Gerúndio, Como dizer "Ele está sendo rude" em inglês?::He is being rude
 <!--SR:!2025-10-02,8,250-->
 Gerúndio, Como dizer "Nós estamos sendo idiotas" em inglês?::We are being idiots

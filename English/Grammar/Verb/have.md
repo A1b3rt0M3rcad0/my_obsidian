@@ -136,7 +136,7 @@ Particípio Passado, Como dizer "Nós temos tido" em inglês?::We have had
 Particípio Passado, Como dizer "Eles / Elas têm tido" em inglês?::They have had
 <!--SR:!2025-09-26,2,210-->
 Particípio Passado, Como dizer "Vocês têm tido" em inglês?::You have had
-<!--SR:!2025-10-01,7,250-->
+<!--SR:!2025-10-05,4,230-->
 ### Gerund / Participle (Gerúndio / Particípio)
 Gerúndio, Como dizer "Eu estou tendo dificuldades" em inglês?::I am having difficulties
 <!--SR:!2025-09-25,1,190-->
@@ -158,7 +158,7 @@ Passado Simples, Como escrever "Eu tive um bom dia" em inglês?::I had a good da
 Passado Simples, Como escrever "Nós tivemos uma reunião" em inglês?::We had a meeting
 <!--SR:!2025-10-02,8,250-->
 Passado Simples, Como escrever "Eles tiveram problemas" em inglês?::They had problems
-<!--SR:!2025-09-25,1,190-->
+<!--SR:!2025-10-02,1,170-->
 Particípio Passado, Como escrever "Eu tenho tido sorte" em inglês?::I have had luck
 <!--SR:!2025-10-01,7,250-->
 Particípio Passado, Como escrever "Ela tem tido sucesso" em inglês?::She has had success
